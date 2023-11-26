@@ -1,5 +1,5 @@
 # ikuuu_autocheckin
-自动签到
+自动签到  暂时无法使用
 
 食用方法：
 
@@ -13,7 +13,7 @@
 
 例如：xiaowang@gmail.com&&123456||xiaobai@163.com&&654321
 
-![image-20231127021747021](C:\Users\luo_huang\AppData\Roaming\Typora\typora-user-images\image-20231127021747021.png)
+![image-20231127021747021]()
 
 4.点亮右上角的星星 **star** 激活 actions :D
 
