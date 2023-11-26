@@ -31,5 +31,5 @@ jobs:
         env: 
           TOKEN: "${{ secrets.TOKEN }}"
         run: |
-          python3 glados.py
+          python3 ikuuuVPN_checkin.py
       - uses: gautamkrishnar/keepalive-workflow@master  
