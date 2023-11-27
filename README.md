@@ -1,5 +1,6 @@
 # ikuuu_autocheckin
-自动签到  暂时无法使用
+
+自动签到
 
 食用方法：
 
@@ -13,7 +14,15 @@
 
 例如：xiaowang@gmail.com&&123456||xiaobai@163.com&&654321
 
-![image-20231127021747021]()
+[1](https://github.com/ycluohuang/all_Img_Src/blob/main/autoCheckin/1.png)
+
+--------------III---------------
+
+[2](https://github.com/ycluohuang/all_Img_Src/blob/main/autoCheckin/2.png)
+
+--------------|||---------------
+
+[3](https://github.com/ycluohuang/all_Img_Src/blob/main/autoCheckin/3.png)
 
 4.点亮右上角的星星 **star** 激活 actions :D
 
