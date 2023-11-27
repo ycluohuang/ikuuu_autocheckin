@@ -52,6 +52,8 @@ def main():
     # 改成手动输入
     # 获取真正的账号字符串 secret里的TOKEN
     # 规则：每个账号密码间用&&连接，不同账号间用||连接
+    #创建TOKEN环境变量
+
     accounts = os.environ.get("TOKEN","[]").split("||") #ok
 
     if accounts[0] == "":
