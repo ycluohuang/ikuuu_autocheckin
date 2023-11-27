@@ -72,8 +72,6 @@ jobs:
           pip install -r requirements.txt
       - name: Run sign
         env:
-          SCKEY: ${{ secrets.SCKEY }}
-          EMAIL: ${{ secrets.EMAIL }}
-          PASSWD: ${{ secrets.PASSWD }}
+          TOKEN: "${{ secrets.TOKEN }}"
         run: |
           python3 ./ikuuuVPN_checkin.py
